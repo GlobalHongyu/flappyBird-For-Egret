@@ -1,0 +1,27 @@
+{
+	"native": {
+		"path_ignore": [],
+		"android_as_path": "../../../Documents/EgretProjects/Bs",
+		"ios_path": "Bsirds"
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "4.0.3",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "tween"
+		}
+	]
+}
